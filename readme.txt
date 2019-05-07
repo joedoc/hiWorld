@@ -4,4 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git tracks remotely clone files.
 Creating a new branch is quick and simple.
-++ add mergeif dev branch issue fixed.## for fix issue-100
+++ add merge
+if dev branch issue fixed.
+## for fix issue-100
